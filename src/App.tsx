@@ -32,7 +32,7 @@ function App() {
       image: "/character/two.png",
     },
     {
-      content: `Then we went on our first date…And I realized—yep, I want this girl. For life.
+      content: `Then we started to talk a little more…And I realized,yep, This girl lowkey chill, and i like that.
       `,
       image: "/character/three.png",
     },
